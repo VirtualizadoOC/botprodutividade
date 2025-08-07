@@ -1,0 +1,41 @@
+2025-08-07 01:24:10,274 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-07 01:24:10,274 - __main__ - ERROR - TOKEN do bot não configurado! Verifique as variáveis de ambiente.
+2025-08-07 01:24:36,351 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-07 01:24:36,351 - __main__ - ERROR - TOKEN do bot não configurado! Verifique as variáveis de ambiente.
+2025-08-07 01:38:12,779 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-07 01:38:12,780 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-07 01:38:12,780 - discord.client - INFO - logging in using static token
+2025-08-07 01:38:12,780 - discord.client - INFO - logging in using static token
+2025-08-07 01:38:13,090 - __main__ - INFO - Iniciando configuração do bot...
+2025-08-07 01:38:13,150 - __main__ - INFO - Iniciando configuração do bot...
+2025-08-07 01:38:13,173 - database - INFO - Banco de dados inicializado com sucesso
+2025-08-07 01:38:13,177 - __main__ - INFO - Cog cogs.enquetes carregado com sucesso
+2025-08-07 01:38:13,185 - database - INFO - Banco de dados inicializado com sucesso
+2025-08-07 01:38:13,186 - __main__ - INFO - Cog cogs.lembretes carregado com sucesso
+2025-08-07 01:38:13,188 - __main__ - INFO - Cog cogs.enquetes carregado com sucesso
+2025-08-07 01:38:13,190 - __main__ - INFO - Cog cogs.lembretes carregado com sucesso
+2025-08-07 01:38:13,190 - __main__ - INFO - Cog cogs.mensagens_programadas carregado com sucesso
+2025-08-07 01:38:13,191 - __main__ - INFO - Cog cogs.mensagens_programadas carregado com sucesso
+2025-08-07 01:38:13,196 - __main__ - INFO - Cog cogs.contadores carregado com sucesso
+2025-08-07 01:38:13,197 - __main__ - INFO - Cog cogs.contadores carregado com sucesso
+2025-08-07 01:38:13,201 - __main__ - INFO - Cog cogs.tarefas carregado com sucesso
+2025-08-07 01:38:13,202 - __main__ - INFO - Cog cogs.tarefas carregado com sucesso
+2025-08-07 01:38:13,594 - __main__ - INFO - Sincronizados 16 comandos slash
+2025-08-07 01:38:13,807 - __main__ - ERROR - Erro ao iniciar o bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-08-07 01:38:13,822 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f715cd8f5b0>, 34013.714843578)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f715ce14fd0>
+2025-08-07 01:38:32,209 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-07 01:38:32,209 - discord.client - INFO - logging in using static token
+2025-08-07 01:38:32,551 - __main__ - INFO - Iniciando configuração do bot...
+2025-08-07 01:38:32,563 - database - INFO - Banco de dados inicializado com sucesso
+2025-08-07 01:38:32,567 - __main__ - INFO - Cog cogs.enquetes carregado com sucesso
+2025-08-07 01:38:32,569 - __main__ - INFO - Cog cogs.lembretes carregado com sucesso
+2025-08-07 01:38:32,571 - __main__ - INFO - Cog cogs.mensagens_programadas carregado com sucesso
+2025-08-07 01:38:32,572 - __main__ - INFO - Cog cogs.contadores carregado com sucesso
+2025-08-07 01:38:32,573 - __main__ - INFO - Cog cogs.tarefas carregado com sucesso
+2025-08-07 01:38:32,675 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1402827980547428352/commands responded with 429. Retrying in 10.62 seconds.
+2025-08-07 01:39:43,627 - __main__ - INFO - Sincronizados 16 comandos slash
+2025-08-07 01:39:43,809 - __main__ - ERROR - Erro ao iniciar o bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-08-07 01:39:43,822 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f29ab4f1d10>
