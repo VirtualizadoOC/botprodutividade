@@ -45,7 +45,7 @@ async def init_database():
                 CREATE TABLE IF NOT EXISTS reminders (
                     id INTEGER PRIMARY KEY AUTOINCREMENT,
                     user_id INTEGER NOT NULL,
-                    guild_id INTEGER NOT NULL,
+                    guild_id INTEGER, -- REMOVIDO: NOT NULL para permitir lembretes em DMs
                     channel_id INTEGER NOT NULL,
                     message TEXT NOT NULL,
                     remind_at TIMESTAMP NOT NULL,
@@ -152,3 +152,4 @@ class DatabaseManager:
         except Exception as e:
             logger.error(f"Erro ao buscar registros: {e}")
             return []
+
